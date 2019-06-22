@@ -11,7 +11,8 @@ npm install
 
 and start the project using 
 
-```npm start
+```
+npm start
 ```
 
 Open http://localhost:3000 to view the application in the browser.
