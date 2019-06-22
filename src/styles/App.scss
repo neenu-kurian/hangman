@@ -1,0 +1,34 @@
+@import "./variables.scss";
+
+.App-title {
+  text-align: center;
+  color: $border;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 50px;
+}
+
+.title {
+  display: table;
+  width: 100%;
+  height: 80px;
+  background-color: lightblue;
+  margin: 0 0 10px;
+}
+
+.button-wrapper {
+  text-align: center;
+  .new-game-button {
+      width:12%;
+      padding: 10px;
+      border-radius: 10px;
+      font-size: 18px;
+      font-weight: bold;
+      border: 1px solid $border;
+      background-color: $border;
+  }
+}
+
+body {
+    font-family: monospace;
+}
