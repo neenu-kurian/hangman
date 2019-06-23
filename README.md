@@ -1,5 +1,5 @@
 # Hangman game
-Hangman game written in React
+Hangman game written in React and Redux
 
 Visit https://neenushangman.herokuapp.com/ to play the game.
 
