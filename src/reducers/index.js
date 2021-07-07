@@ -1,5 +1,5 @@
-import GuessLetter from "./GuessLetter";
+import GuessLetter from './GuessLetter';
 
 export default {
-  GuessLetter
+  GuessLetter,
 };

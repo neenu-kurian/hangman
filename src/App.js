@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import Keyboard from "./components/Keyboard";
-import GameResult from "./components/OutputFormat";
-import "../src/styles/App.scss";
+import React, { Component } from 'react';
+import Keyboard from './components/Keyboard';
+import GameResult from './components/OutputFormat';
+import './styles/App.scss';
 
 class App extends Component {
   restartGame() {
